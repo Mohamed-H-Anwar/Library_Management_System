@@ -1,7 +1,7 @@
 # Library_Management_System
 Group Project
 
-# What I learned
+# What I learnt
  
  * C/C++ file system
  
